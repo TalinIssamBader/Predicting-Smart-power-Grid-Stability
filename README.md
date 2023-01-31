@@ -85,13 +85,18 @@ detection, cybersecurity awareness, prediction, and optimization
    ![image](https://user-images.githubusercontent.com/123263600/215708834-49d0d878-29a8-4364-a40b-6b47ffda0c84.png)
 ```
 # 6- References
-[1] Breviglieri, P., Erdem, T. & Eken, S. Predicting Smart Grid Stability with Optimized Deep Models. SN COMPUT. SCI. 2, 73 (2021). https://doi.org/10.1007/s42979-021-00463-5
+[1] Breviglieri, P., Erdem, T. & Eken, S. Predicting Smart Grid Stability with Optimized Deep Models. SN COMPUT. 
+SCI. 2, 73 (2021). https://doi.org/10.1007/s42979-021-00463-5
 [2] Smart grid evolution, 2018. Eolas Magazine. URL:https://www.eolasmagazine.ie/smartgrid-evolution/ (accessed 2.18.22).
 [3] Smart Cities 2021, 4(2), 548-568; https://doi.org/10.3390/smartcities4020029
-[4] Smart Grid System Report, U.S. Department of Energy. Available online: https://www.energy.gov/sites/prod/files/2019/02/f59/Smart%20Grid%20System%20 Report%20November%202018_1.pdf (accessed on 15 January 2021).
-[5] V. V. S. Lanka, M. Roy, S. Suman, and S. Prajapati, “Renewable energy and demand forecasting in an integrated smart grid,” in 2021 Innovations in Energy Management and Renewable Resources(Iemre 2021), A. K. Bar, M. Pal, S. Ghosh et al., Eds., IEEE, New York, 2021.
-[6] M. Jayachandran, C. R. Reddy, S. Padmanaban, and A. H. Milyani, “Operational planning steps in smart electric power delivery system,” Scientific Reports, vol. 11, no. 1, p. 17250, 2021
-[7] Smart Grid System Report, U.S. Department of Energy. Available online:  https://www.energy.gov/sites/prod/files/2019/02/f59/Smart%20Grid%20System%20Report%20 November%202018_1.pdf (accessed on 15 January 2021).
+[4] Smart Grid System Report, U.S. Department of Energy. Available online: https://www.energy.gov/sites/prod/files/2019/02
+/f59/Smart%20Grid%20System%20 Report%20November%202018_1.pdf (accessed on 15 January 2021).
+[5] V. V. S. Lanka, M. Roy, S. Suman, and S. Prajapati, “Renewable energy and demand forecasting in an integrated smart grid,” 
+in 2021 Innovations in Energy Management and Renewable Resources(Iemre 2021), A. K. Bar, M. Pal, S. Ghosh et al., Eds., IEEE, New York, 2021.
+[6] M. Jayachandran, C. R. Reddy, S. Padmanaban, and A. H. Milyani, “Operational planning steps in smart electric power delivery
+system,” Scientific Reports, vol. 11, no. 1, p. 17250, 2021
+[7] Smart Grid System Report, U.S. Department of Energy. Available online:  https://www.energy.gov/sites/prod/files/2019/02/f59/
+Smart%20Grid%20System%20Report%20 November%202018_1.pdf (accessed on 15 January 2021).
 [8] Smart Cities 2021, 4, 548–568. https://doi.org/10.3390/smartcities4020029
 [9] M. Massaoudi et al.: DL in SG Technology: A Review of Recent Advancements and Future Prospect
 [10] Dataset website: https://www.kaggle.com/code/mineshjethva/power-grid-stability-with-deep-learning
