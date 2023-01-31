@@ -29,6 +29,9 @@ Finally, provide the network administrator with all required information about t
 network power balance, so that it can price its energy offering—and inform consumers—
 accordingly.
 ```
+![image](https://user-images.githubusercontent.com/123263600/215717427-ac7220b2-a57d-472c-9e40-e62f59a80819.png)
+
+# The differences between a traditional power grid and a smart grid
 ![image](https://user-images.githubusercontent.com/123263600/215716068-c9290a2b-80a7-477f-bd58-2135cd47a0f4.png)
 
 
