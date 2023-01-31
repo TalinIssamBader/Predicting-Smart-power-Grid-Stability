@@ -1,5 +1,6 @@
-```
+
 # Abstract
+```
 The stability of any system in the power grid is very important, and the concern is due to the high 
 demand and supply of smart cities, homes, factories, and so on. The stability appears in: 
 
@@ -28,9 +29,11 @@ Finally, provide the network administrator with all required information about t
 network power balance, so that it can price its energy offering—and inform consumers—
 accordingly.
 ```
-      ![image](https://user-images.githubusercontent.com/123263600/215707302-34dc5ead-8ebd-4f21-b45b-e42177f2a1cd.png)
+![image](https://user-images.githubusercontent.com/123263600/215716068-c9290a2b-80a7-477f-bd58-2135cd47a0f4.png)
+
+
+# Dataset
 ```
-#2- Dataset
 The dataset contains 14 columns, divided in 12 primary predictive features (Columns), and 2 
 dependent variables, 60,000 observations(rows).
 The dataset was collected for the purpose of building a model that can check energy grid stability 
@@ -60,8 +63,9 @@ network).
 # Methodology
    ![image](https://user-images.githubusercontent.com/123263600/215708121-6b734b0a-bdd7-42ac-9dba-282a146ca221.png)
 
-```
+
 # Conclusion
+```
 This study is based on power smart grid stability. to determine if it is stable or not the study 
 uses Artificial neural networks (ANN) also several classification models such as (Support vector 
 classification (SVM) by using RBF and POLY kernel, Random Forest Classifier, Decision Tree 
@@ -83,8 +87,9 @@ major role in the smart grid, DL’s major applications in SG include energy for
 detection, cybersecurity awareness, prediction, and optimization
 ```
    ![image](https://user-images.githubusercontent.com/123263600/215708834-49d0d878-29a8-4364-a40b-6b47ffda0c84.png)
+
+# References
 ```
-# 6- References
 [1] Breviglieri, P., Erdem, T. & Eken, S. Predicting Smart Grid Stability with Optimized Deep Models. SN COMPUT. 
 SCI. 2, 73 (2021). https://doi.org/10.1007/s42979-021-00463-5
 [2] Smart grid evolution, 2018. Eolas Magazine. URL:https://www.eolasmagazine.ie/smartgrid-evolution/ (accessed 2.18.22).
