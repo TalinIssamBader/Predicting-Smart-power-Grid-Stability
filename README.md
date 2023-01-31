@@ -1,12 +1,17 @@
-Abstract
+# Abstract
 The stability of any system in the power grid is very important, and the concern is due to the high 
 demand and supply of smart cities, homes, factories, and so on. The stability appears in: 
+
 1- Provide sufficient capacity for voltage stability at every portion of the grid.
+
 2- Smart grid also motivates the use of renewable energy resources rather than nonrenewable 
 ones [4].
+
 3- Generation has to match the demand at any time for immediate outages.
+
 4- Smart grids can be used to enhance the smooth functioning of every domain like electricity 
 generation either from renewable or nonrenewable energy resources [3].
+
 Which is by dynamically estimating grid stability becomes not only a concern but a major 
 requirement. Decentral Smart Grid Control (DSGC) systems monitor one particular property of 
 the grid—its frequency. The user can change the consumption by the perception of the price of 
