@@ -37,7 +37,10 @@ The dataset was collected for the purpose of building a model that can check ene
 from simulations of grid stability comprising one power source (a centralized generation node) 
 supplying energy to three consumption nodes (4 - node star network) to decentralize smart grid 
 control (DSGC ) which increases the stability of the smart grid  
-                                  ![image](https://user-images.githubusercontent.com/123263600/215707735-04a529f5-99fe-4e45-a099-60ef261c0f09.png)
+```
+
+  ![image](https://user-images.githubusercontent.com/123263600/215707735-04a529f5-99fe-4e45-a099-60ef261c0f09.png)
+```  
 This control system keeps track of the power demand and supply frequency on every producerconsumer node of the grid.
 The most careful part of the decentralized smart energy grid is the information flow of electricity 
 distribution. The information flow helps in deciding the stability of the decentralized smart grid. 
@@ -53,11 +56,11 @@ This dataset is augmented version by 3 times, thats mean the original dataset co
 observations (rows), it can be augmented in to reach 60,000 observations, this is possipole and 
 representing a permutation of the three consumers occupying three consumer nodes (4 - node star 
 network).
+```
+# Methodology
+   ![image](https://user-images.githubusercontent.com/123263600/215708121-6b734b0a-bdd7-42ac-9dba-282a146ca221.png)
 
-#Methodology
-                                  ![image](https://user-images.githubusercontent.com/123263600/215708121-6b734b0a-bdd7-42ac-9dba-282a146ca221.png)
-
-
+```
 # Conclusion
 This study is based on power smart grid stability. to determine if it is stable or not the study 
 uses Artificial neural networks (ANN) also several classification models such as (Support vector 
@@ -78,8 +81,8 @@ energy increase, and these two things cause a negative impact on power grid stab
 problem forced the change the grid to be smart and due to that Deep learning (DL) will play a 
 major role in the smart grid, DL’s major applications in SG include energy forecasting, fault 
 detection, cybersecurity awareness, prediction, and optimization
-                          ![image](https://user-images.githubusercontent.com/123263600/215708834-49d0d878-29a8-4364-a40b-6b47ffda0c84.png)
 ```
+   ![image](https://user-images.githubusercontent.com/123263600/215708834-49d0d878-29a8-4364-a40b-6b47ffda0c84.png)
 ```
 # 6- References
 [1] Breviglieri, P., Erdem, T. & Eken, S. Predicting Smart Grid Stability with Optimized Deep Models. SN COMPUT. SCI. 2, 73 (2021). https://doi.org/10.1007/s42979-021-00463-5
