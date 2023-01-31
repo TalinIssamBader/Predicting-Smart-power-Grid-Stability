@@ -65,6 +65,11 @@ network).
 ```
 # Methodology
    ![image](https://user-images.githubusercontent.com/123263600/215708121-6b734b0a-bdd7-42ac-9dba-282a146ca221.png)
+   
+
+# Implement Artifiient Neutral Network (ANN)
+
+![image](https://user-images.githubusercontent.com/123263600/215727302-3afaa57d-74d4-4a4b-bf33-e07ea29dee45.png)
 
 
 # Conclusion
@@ -91,9 +96,7 @@ detection, cybersecurity awareness, prediction, and optimization
 ```
    ![image](https://user-images.githubusercontent.com/123263600/215708834-49d0d878-29a8-4364-a40b-6b47ffda0c84.png)
 
-# Implement Artifiient Neutral Network (ANN)
 
-![image](https://user-images.githubusercontent.com/123263600/215727302-3afaa57d-74d4-4a4b-bf33-e07ea29dee45.png)
 
 # References
 ```
