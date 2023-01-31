@@ -3,12 +3,9 @@ The stability of any system in the power grid is very important, and the concern
 demand and supply of smart cities, homes, factories, and so on. The stability appears in: 
 
 1- Provide sufficient capacity for voltage stability at every portion of the grid.
-
 2- Smart grid also motivates the use of renewable energy resources rather than nonrenewable 
 ones [4].
-
 3- Generation has to match the demand at any time for immediate outages.
-
 4- Smart grids can be used to enhance the smooth functioning of every domain like electricity 
 generation either from renewable or nonrenewable energy resources [3].
 
@@ -30,8 +27,7 @@ Finally, provide the network administrator with all required information about t
 network power balance, so that it can price its energy offering—and inform consumers—
 accordingly.
 
-
-             #![image](https://user-images.githubusercontent.com/123263600/215707302-34dc5ead-8ebd-4f21-b45b-e42177f2a1cd.png)
+      ![image](https://user-images.githubusercontent.com/123263600/215707302-34dc5ead-8ebd-4f21-b45b-e42177f2a1cd.png)
 
 #2- Dataset
 The dataset contains 14 columns, divided in 12 primary predictive features (Columns), and 2 
@@ -40,7 +36,7 @@ The dataset was collected for the purpose of building a model that can check ene
 from simulations of grid stability comprising one power source (a centralized generation node) 
 supplying energy to three consumption nodes (4 - node star network) to decentralize smart grid 
 control (DSGC ) which increases the stability of the smart grid  
-![image](https://user-images.githubusercontent.com/123263600/215707735-04a529f5-99fe-4e45-a099-60ef261c0f09.png)
+             ![image](https://user-images.githubusercontent.com/123263600/215707735-04a529f5-99fe-4e45-a099-60ef261c0f09.png)
 This control system keeps track of the power demand and supply frequency on every producerconsumer node of the grid.
 The most careful part of the decentralized smart energy grid is the information flow of electricity 
 distribution. The information flow helps in deciding the stability of the decentralized smart grid. 
@@ -83,8 +79,8 @@ major role in the smart grid, DL’s major applications in SG include energy for
 detection, cybersecurity awareness, prediction, and optimization
                           ![image](https://user-images.githubusercontent.com/123263600/215708834-49d0d878-29a8-4364-a40b-6b47ffda0c84.png)
 
-#6- References
-/n[1] Breviglieri, P., Erdem, T. & Eken, S. Predicting Smart Grid Stability with Optimized Deep 
+# 6- References
+[1] Breviglieri, P., Erdem, T. & Eken, S. Predicting Smart Grid Stability with Optimized Deep 
 Models. SN COMPUT. SCI. 2, 73 (2021). https://doi.org/10.1007/s42979-021-00463-5
 [2] Smart grid evolution, 2018. Eolas Magazine. URL:https://www.eolasmagazine.ie/smartgrid-evolution/ (accessed 2.18.22).
 [3] Smart Cities 2021, 4(2), 548-568; https://doi.org/10.3390/smartcities4020029
