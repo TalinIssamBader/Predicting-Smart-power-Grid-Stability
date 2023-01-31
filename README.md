@@ -84,7 +84,7 @@ detection, cybersecurity awareness, prediction, and optimization
                           ![image](https://user-images.githubusercontent.com/123263600/215708834-49d0d878-29a8-4364-a40b-6b47ffda0c84.png)
 
 #6- References
-[1] Breviglieri, P., Erdem, T. & Eken, S. Predicting Smart Grid Stability with Optimized Deep 
+/n[1] Breviglieri, P., Erdem, T. & Eken, S. Predicting Smart Grid Stability with Optimized Deep 
 Models. SN COMPUT. SCI. 2, 73 (2021). https://doi.org/10.1007/s42979-021-00463-5
 [2] Smart grid evolution, 2018. Eolas Magazine. URL:https://www.eolasmagazine.ie/smartgrid-evolution/ (accessed 2.18.22).
 [3] Smart Cities 2021, 4(2), 548-568; https://doi.org/10.3390/smartcities4020029
@@ -103,5 +103,5 @@ November%202018_1.pdf (accessed on 15 January 2021).
 [8] Smart Cities 2021, 4, 548–568. https://doi.org/10.3390/smartcities4020029
 [9] M. Massaoudi et al.: DL in SG Technology: A Review of Recent Advancements and Future 
 Prospect
-
+[10] Dataset website: https://www.kaggle.com/code/mineshjethva/power-grid-stability-with-deep-learning
 
