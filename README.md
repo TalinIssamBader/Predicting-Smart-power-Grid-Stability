@@ -29,3 +29,57 @@ provides better results than other predictive models.
 Finally, provide the network administrator with all required information about the current 
 network power balance, so that it can price its energy offering—and inform consumers—
 accordingly.
+
+
+#![image](https://user-images.githubusercontent.com/123263600/215707302-34dc5ead-8ebd-4f21-b45b-e42177f2a1cd.png)
+
+#2- Dataset
+The dataset contains 14 columns, divided in 12 primary predictive features (Columns), and 2 
+dependent variables, 60,000 observations(rows).
+The dataset was collected for the purpose of building a model that can check energy grid stability 
+from simulations of grid stability comprising one power source (a centralized generation node) 
+supplying energy to three consumption nodes (4 - node star network) to decentralize smart grid 
+control (DSGC ) which increases the stability of the smart grid  
+![image](https://user-images.githubusercontent.com/123263600/215707735-04a529f5-99fe-4e45-a099-60ef261c0f09.png)
+This control system keeps track of the power demand and supply frequency on every producerconsumer node of the grid.
+The most careful part of the decentralized smart energy grid is the information flow of electricity 
+distribution. The information flow helps in deciding the stability of the decentralized smart grid. 
+The model takes into consideration some parameters (features) such as:
+1. Balancing power flow: the total power balance (nominal power produced or consumed at 
+each grid node, deals with the units produced or consumed by the producer or consumer, 
+respectively.)
+2. The reaction time of nodes: the response time of participants to adjust consumption 
+and/or production in response to price changes, deals with the change in the response 
+according to the rise or fall in the price of power units.
+3. energy price elasticity.
+This dataset is augmented version by 3 times, thats mean the original dataset contains 10,000 
+observations (rows), it can be augmented in to reach 60,000 observations, this is possipole and 
+representing a permutation of the three consumers occupying three consumer nodes (4 - node star 
+network).
+
+#Methodology
+![image](https://user-images.githubusercontent.com/123263600/215708121-6b734b0a-bdd7-42ac-9dba-282a146ca221.png)
+
+
+#6- References
+[1] Breviglieri, P., Erdem, T. & Eken, S. Predicting Smart Grid Stability with Optimized Deep 
+Models. SN COMPUT. SCI. 2, 73 (2021). https://doi.org/10.1007/s42979-021-00463-5
+[2] Smart grid evolution, 2018. Eolas Magazine. URL:https://www.eolasmagazine.ie/smartgrid-evolution/ (accessed 2.18.22).
+[3] Smart Cities 2021, 4(2), 548-568; https://doi.org/10.3390/smartcities4020029
+[4] Smart Grid System Report, U.S. Department of Energy. Available 
+online: https://www.energy.gov/sites/prod/files/2019/02/f59/Smart%20Grid%20System%20
+Report%20November%202018_1.pdf (accessed on 15 January 2021).
+[5] V. V. S. Lanka, M. Roy, S. Suman, and S. Prajapati, “Renewable energy and demand 
+forecasting in an integrated smart grid,” in 2021 Innovations in Energy Management and 
+Renewable Resources(Iemre 2021), A. K. Bar, M. Pal, S. Ghosh et al., Eds., IEEE, New York, 
+2021.
+[6] M. Jayachandran, C. R. Reddy, S. Padmanaban, and A. H. Milyani, “Operational planning 
+steps in smart electric power delivery system,” Scientific Reports, vol. 11, no. 1, p. 17250, 2021
+[7] Smart Grid System Report, U.S. Department of Energy. Available online: 
+https://www.energy.gov/sites/prod/files/2019/02/f59/Smart%20Grid%20System%20Report%20
+November%202018_1.pdf (accessed on 15 January 2021).
+[8] Smart Cities 2021, 4, 548–568. https://doi.org/10.3390/smartcities4020029
+[9] M. Massaoudi et al.: DL in SG Technology: A Review of Recent Advancements and Future 
+Prospect
+
+
