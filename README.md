@@ -91,6 +91,10 @@ detection, cybersecurity awareness, prediction, and optimization
 ```
    ![image](https://user-images.githubusercontent.com/123263600/215708834-49d0d878-29a8-4364-a40b-6b47ffda0c84.png)
 
+# Implement Artifiient Neutral Network (ANN)
+
+![image](https://user-images.githubusercontent.com/123263600/215727302-3afaa57d-74d4-4a4b-bf33-e07ea29dee45.png)
+
 # References
 ```
 [1] Breviglieri, P., Erdem, T. & Eken, S. Predicting Smart Grid Stability with Optimized Deep Models. SN COMPUT. 
