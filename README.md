@@ -31,7 +31,7 @@ network power balance, so that it can price its energy offering—and inform con
 accordingly.
 
 
-#![image](https://user-images.githubusercontent.com/123263600/215707302-34dc5ead-8ebd-4f21-b45b-e42177f2a1cd.png)
+             #![image](https://user-images.githubusercontent.com/123263600/215707302-34dc5ead-8ebd-4f21-b45b-e42177f2a1cd.png)
 
 #2- Dataset
 The dataset contains 14 columns, divided in 12 primary predictive features (Columns), and 2 
@@ -58,8 +58,30 @@ representing a permutation of the three consumers occupying three consumer nodes
 network).
 
 #Methodology
-![image](https://user-images.githubusercontent.com/123263600/215708121-6b734b0a-bdd7-42ac-9dba-282a146ca221.png)
+                                  ![image](https://user-images.githubusercontent.com/123263600/215708121-6b734b0a-bdd7-42ac-9dba-282a146ca221.png)
 
+
+# Conclusion
+This study is based on power smart grid stability. to determine if it is stable or not the study 
+uses Artificial neural networks (ANN) also several classification models such as (Support vector 
+classification (SVM) by using RBF and POLY kernel, Random Forest Classifier, Decision Tree 
+Classifier, K Neighbors Classifier (K-NN), Naive-Bayes, and Logistic Regression. These all 
+models used open source data set (smart grid data) and finally based on the accuracy that got 
+from models the comparison between models has been.
+The result section shows the best accuracy is 98% when deep learning optimizer 'ANN' has been 
+used. With activation of ReLU (for X) and Sigmoid (for y) activation, also used the best 
+optimizer which is the ‘adam optimizer’.
+The structure of ANN built to one input layer (12 input nodes), also three of hidden layers (24, 
+24 and 12 respectively) and finally one output layer (single-node).
+In any prediction model, the accuracy will be improved when the feature in the data set 
+increases. Also, the feature must be relative to have the right prediction, In ANN the accuracy 
+increases when increasing the number of epochs but be careful from over fitting.
+In the last decade, the world has observed a huge change in climate change and renewable 
+energy increase, and these two things cause a negative impact on power grid stability. This 
+problem forced the change the grid to be smart and due to that Deep learning (DL) will play a 
+major role in the smart grid, DL’s major applications in SG include energy forecasting, fault 
+detection, cybersecurity awareness, prediction, and optimization
+                          ![image](https://user-images.githubusercontent.com/123263600/215708834-49d0d878-29a8-4364-a40b-6b47ffda0c84.png)
 
 #6- References
 [1] Breviglieri, P., Erdem, T. & Eken, S. Predicting Smart Grid Stability with Optimized Deep 
